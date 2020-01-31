@@ -1,0 +1,58 @@
+{
+  "id": "1623642",
+  "name": "wzry",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1960940",
+      "name": "相关",
+      "font_class": "xiangguan",
+      "unicode": "e8a9",
+      "unicode_decimal": 59561
+    },
+    {
+      "icon_id": "4541354",
+      "name": "图书",
+      "font_class": "tushu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6654507",
+      "name": "card-hero",
+      "font_class": "card-hero",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "6958921",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "9361904",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11960893",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "12219871",
+      "name": "目录",
+      "font_class": "mulu",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    }
+  ]
+}

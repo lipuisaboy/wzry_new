@@ -1,0 +1,145 @@
+//color 
+$colors:(
+  'orange': #db9e3f,
+  'white': #fff,
+  'title': #171822,
+  'font': #222,
+  'dark':#000,
+  'grey': #999,
+  'title-font': #666,
+  'category': #343440,
+  'body':#f9f9f9,
+  'blue':#58c8fd,
+  'blue-t':#5ca2e7,
+  'difficult':#815402,
+  'skill':#1f3695,
+  'attach':#791a16,
+  'live':#3b412d,
+);
+@each $colorKey,$color in $colors {
+  .t-#{$colorKey}{
+    color: $color
+  }
+  .bg-#{$colorKey}{
+    background-color: $color;
+  }
+}
+//text-align
+@each $var in (left,center,right) {
+  .t-#{$var}{
+    text-align: $var !important;
+  }
+}
+
+.t-ellipse{
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+//font-size
+.f-w {
+  font-weight: 700;
+}
+$base-size:1rem;
+$font-sizes:(
+  s: 0.7692, 
+  m: 0.9231,
+  ok:0.8462,
+  base: 1,
+  h2:1.3077,
+  l: 1.0769,
+  xl: 1.2308,
+  skill:1.1538,
+  ic: 1.3846,
+);
+
+@each $sizeKey,$size in $font-sizes {
+  .fs-#{$sizeKey}{
+    font-size:$size * $base-size;
+  }
+}
+
+//flex
+.d-flex {
+  display: flex;
+}
+
+.f-1 {
+  flex: 1;
+}
+
+.f-column {
+  flex-direction: column;
+}
+
+$flex-jc: (
+  start: flex-start,
+  end: flex-end,
+  center: flex-center,
+  between: space-between,
+  around: space-around,
+);
+
+@each $key,$value in $flex-jc {
+  .jc-#{$key} {
+    justify-content: $value;
+  }
+}
+
+$flex-ai: (
+  start: flex-start,
+  end: flex-end,
+  center: flex-center,
+  stretch:stretch,
+);
+
+@each $key,$value in $flex-ai {
+  .ai-#{$key} {
+    align-items: $value;
+  }
+}
+
+//margin , padding
+$mp-types: (
+  m:margin,
+  p:padding,
+);
+$mp-directions:(
+  t:top,
+  r:right,
+  b:bottom,
+  l:left,
+);
+$base-mp-sizes:1rem;
+$mp-sizes:(
+  0:0,
+  1:0.25,
+  2:0.5,
+  3:1,
+  4:1.5,
+  5:3,
+);
+@each $typeKey,$type in $mp-types {
+  @each $sizeKey,$size in $mp-sizes {
+    .#{$typeKey}-#{$sizeKey} {
+      #{$type}:$size * $base-mp-sizes
+    }
+    .#{$typeKey}x-#{$sizeKey} {
+      #{$type}-left:$size * $base-mp-sizes;
+      #{$type}-right:$size * $base-mp-sizes
+    }
+    .#{$typeKey}y-#{$sizeKey} {
+      #{$type}-top:$size * $base-mp-sizes;
+      #{$type}-bottom:$size * $base-mp-sizes
+    }
+  }
+  @each $directionKey,$direction in $mp-directions {
+    @each $sizeKey,$size in $mp-sizes {
+      .#{$typeKey}#{$directionKey}-#{$sizeKey} {
+        #{$type}-#{$direction}:$size * $base-mp-sizes
+      }
+    }
+  }
+}

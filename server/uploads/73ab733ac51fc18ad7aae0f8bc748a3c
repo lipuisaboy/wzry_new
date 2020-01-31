@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)https://pvp.qq.com/web201605/herodetail/m/131.html -->
+<html style="font-size: 50px;"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+	
+	<meta name="author" content="Tencent-CP">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="keywords" content="王者荣耀李白,李白王者荣耀,王者荣耀李白出装,王者荣耀李白铭文">
+	<meta name="description" content="《王者荣耀》官方英雄资料、李白技能介绍、李白技能加点建议、李白铭文搭配建议、李白出装建议、李白英雄关系、李白攻略">
+	<title>王者荣耀-王者荣耀官方网站-腾讯游戏</title>
+	<!-- 页面设计：cp | 页面制作：cp | 创建：2017-06-16-->
+	<script>
+		function samResize() {
+			var docEl = document.documentElement;
+			var clientWidth = docEl.clientWidth;
+			if (!clientWidth) {
+				return
+			}
+			docEl.style.fontSize = 100 * (clientWidth / 750) + "px"
+		}
+		samResize();
+	</script>
+	<link href="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/base.css" rel="stylesheet">
+	<link href="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/canon.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="wrap">
+		<div class="home-top">
+			<div class="logo_cont">
+				<a class="logo_img" href="https://pvp.qq.com/m/index.shtml">
+					<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/logo.png" alt="LOGO">
+				</a>
+				<div class="logo_title">
+					<h1>王者荣耀&nbsp;&nbsp;&nbsp;&nbsp;攻略站</h1>
+				</div>
+			</div>
+			<div class="download">
+				<a href="https://pvp.qq.com/m/m201706/heroList.shtml" onclick="PTTSendClick(&#39;mainnav&#39;,&#39;tostrategy&#39;,&#39;攻略站&#39;);"><span>更多英雄</span>&gt;</a>
+			</div>
+		</div>
+		<div class="header-hero">
+			<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/131-bigskin-1.jpg" alt="">
+			<div class="hero-attribute">
+				<p class="hero-title">青莲剑仙</p>
+				<p class="hero-name">李白</p>
+				<p class="hero-location" data-herotype="4/">刺客</p>
+				<div class="hero-cover">
+					<ul class="cover-list c">
+						<li>生存
+							<span class="cnver1 hero-attrsp hero-attr1-4"></span>
+						</li>
+						<li>攻击
+							<span class="cnver2 hero-attrsp hero-attr2-7"></span>
+						</li>
+						<li>技能
+							<span class="cnver3 hero-attrsp hero-attr3-6"></span>
+						</li>
+						<li>难度
+							<span class="cnver4 hero-attrsp hero-attr4-9"></span>
+						</li>
+					</ul>
+					<a href="https://pvp.qq.com/m/m201706/herodetail/skin.shtml?imgname=%u9752%u83B2%u5251%u4ED9%260%7C%u8303%u6D77%u8F9B%260%7C%u5343%u5E74%u4E4B%u72D0%2612%7C%u51E4%u6C42%u51F0%2620%7C%u654F%u9510%u4E4B%u529B%2630&amp;name=131" class="hero-skin" data-imgname="青莲剑仙&amp;0|范海辛&amp;0|千年之狐&amp;12|凤求凰&amp;20|敏锐之力&amp;30" data-name="131">皮肤：5</a>
+				</div>
+			</div>
+		</div>
+		<div class="content-hero slide-container" style="height: 2079px;">
+			<ul class="hero-nav slide-nav">
+				<li onclick="PTTSendClick(&#39;tab&#39;,&#39;explain&#39;,&#39;新手初识&#39;);" class="current">
+					<a href="javascript:;">英雄初识</a>
+				</li>
+				<li onclick="PTTSendClick(&#39;tab&#39;,&#39;strategy&#39;,&#39;高手进阶&#39;);" class="">
+					<a href="javascript:;">进阶攻略</a>
+				</li>
+			</ul>
+			<div class="content-tab slide-content" style="position: relative; overflow: hidden; backface-visibility: hidden;">
+				<!-- 介绍 -->
+				<div class="content-list slide-item current" style="position: absolute; top: 0px; left: 0px; transform: translateX(0px); visibility: visible;">
+					<div class="hero-video">
+						<a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=206545&amp;e_code=pvpapp.searchiSubType.iSubType657" class="video-play" onclick="PTTSendClick(&#39;tab&#39;,&#39;video&#39;,&#39;视频&#39;);">英雄介绍视频</a>
+						<a href="https://pvp.qq.com/m/m201706/heropic-detail.shtml?hid=131" class="voice-play play loud-link-click">一图识英雄</a>
+					</div>
+					<!-- 技能加点 -->
+					<div class="panel brtn">
+						<div class="autom pr" id="PlusTab">
+							<ul class="plus-tab c controller">
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list1&quot;});" class="current">
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/13100.png" alt="">
+								</li>
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list2&quot;});">
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/13110.png" alt="">
+								</li>
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list3&quot;});">
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/13120.png" alt="">
+								</li>
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list4&quot;});">
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/13130.png" alt="">
+								</li>
+								
+							</ul>
+							<ul class="plus-content content">
+								<li class="current" style="display: list-item; transform-origin: 0px 0px; opacity: 1; transform: scale(1, 1);">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="{skill1}">侠客行</span>
+										<span class="plus-value">(冷却值：0 消耗：0)</span>
+									</div>
+									<p class="plus-int">被动：李白使用普通攻击攻击敌人时，会积累1道剑气，持续3秒；积累4道剑气后进入侠客行状态，增加30点物理攻击力并解除青莲剑歌的封印，持续5秒；攻击建筑不会积累剑气</p>
+									<p class="prompt">小提示：李白的大招能否施放的关键，普攻出第四下后触发侠客行，还能提升攻击力</p>
+								</li>
+								<li style="display: none;">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="13110">将进酒</span>
+										<span class="plus-value">(冷却值：12/10.6/9.2/7.8/6.4/5 消耗：80)</span>
+									</div>
+									<p class="plus-int">李白可用醉剑式向指定方向连续突进2次，对路径上的敌人造成300/350/400/450/500/550（+110%物理加成）点物理伤害并且造成晕眩0.5秒叠加一层剑气；第三次释放会回到原地；每次释放间隔不能超过5秒</p>
+									<p class="prompt">小提示：一定要控制好CD时间，这是李白对敌方进行消耗的主要技能，起到杀人红尘中，脱身白刃里的效果.当然该技能可突进可逃跑，注意灵活使用</p>
+								</li>
+								<li style="display: none;">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="13120">神来之笔</span>
+										<span class="plus-value">(冷却值：12/11.6/11.2/10.8/10.4/10 消耗：60)</span>
+									</div>
+									<p class="plus-int">李白以自身为中心化剑为青莲剑阵，对范围内敌人造成210/246/282/318/354/390（+75%物理加成）点物理伤害；对触碰到剑圈的敌人造成350（+125%物理加成）点物理伤害并且减少90%移动速度，持续1秒；同时敌人会减少100/175/250/325/400/475点物理防御，持续3秒；李白释放技能期间不可被选中</p>
+									<p class="prompt">小提示：该技能用于造成伤害和减速敌人，敌人触碰剑圈还能减少敌人护甲，这是李白造成高额输出的前提</p>
+								</li>
+								<li style="display: none;">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="13130">青莲剑歌</span>
+										<span class="plus-value">(冷却值：12 消耗：120)</span>
+									</div>
+									<p class="plus-int">李白化身为剑气，对指定方向范围内的所有敌人飞速穿梭斩击5次，每次斩击造成200/250/300（+50%额外物理加成）点物理伤害；当同时攻击多个敌方英雄时，每增加一位敌方英雄将衰减15%的伤害，最低衰减至初始伤害的70%；青莲剑歌需要由侠客行解除限制后方可释放，使用后立即进入限制状态；李白释放技能期间不可被选中和攻击</p>
+									<p class="prompt">小提示：这是李白团战造成超高AOE伤害的关键，同时也可以用来躲避敌方技能，防止被秒</p>
+								</li>
+								
+							</ul>
+							<div class="plus-control">
+								<span class="plus-prev plus-spr" onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plusbtn.pprev&quot;});"></span>
+								<span class="plus-next plus-spr" onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plusbtn.pnext&quot;});"></span>
+							</div>
+
+						</div>
+					</div>
+					<div class="panel brbn">
+						<div class="autom">
+							<h3 class="tit1 ic16">加点建议</h3>
+							<div class="plus-osal c">
+								<div class="osal-box sk1 l">
+									<span class="osal-p1">主升</span>
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/13110.png" alt="">
+									<span class="osal-p2 upskill" data-upskill="13110">将进酒</span>
+								</div>
+								<div class="osal-box sk2 l">
+									<span class="osal-p1">副升</span>
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/13120.png" alt="">
+									<span class="osal-p2 upskill" data-upskill="13120">神来之笔</span>
+								</div>
+								<div class="osal-suner l">
+									<p>召唤师技能</p>
+									<div class="c" id="skill3" data-skill="80108|80107"><div class="osal-box l"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/80108.jpg" alt=""><span class="osal-p2">终结</span></div><div class="osal-box l"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/80107.jpg" alt=""><span class="osal-p2">净化</span></div></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- 技能加点 -->
+					<div class="panel brtn">
+						<div class="autom">
+							<h3 class="tit1 ic11">出装推荐</h3>
+							<div class="skills-build">
+								<p class="tit2">顺风出装</p>
+								<ul class="build-list equip-list" data-item="1523|1425|1132|1137|1138|1127"><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1523.jpg" alt=""></span><span class="build-name">追击刀锋</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1425.jpg" alt=""></span><span class="build-name">急速战靴</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1132.jpg" alt=""></span><span class="build-name">泣血之刃</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1137.jpg" alt=""></span><span class="build-name">暗影战斧</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1138.jpg" alt=""></span><span class="build-name">破军</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1127.jpg" alt=""></span><span class="build-name">名刀·司命</span></li></ul>
+								<p class="prompt">小提示：全输出装备来提升自身爆发能力，利用伤害压制对手，名刀能有效提升李白的生存能力</p>
+							</div>
+							<div class="skills-build brn">
+								<p class="tit2">逆风出装</p>
+								<ul class="build-list equip-list" data-item="1523|1425|1132|1137|1134|1138"><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1523.jpg" alt=""></span><span class="build-name">追击刀锋</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1425.jpg" alt=""></span><span class="build-name">急速战靴</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1132.jpg" alt=""></span><span class="build-name">泣血之刃</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1137.jpg" alt=""></span><span class="build-name">暗影战斧</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1134.jpg" alt=""></span><span class="build-name">宗师之力</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1138.jpg" alt=""></span><span class="build-name">破军</span></li></ul>
+								<p class="prompt">小提示：配合李白1技能能完美发挥宗师之力的属性价值，但需要较高的操作手法</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic12">铭文推荐</h3>
+							<div class="rune-list" data-ming="1504|3514|2517"><dl class="rune-cont c"><dt><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1504.png" alt=""></dt><dd><p class="rp1">异变</p><p class="rp2"></p><p>物理攻击力+2</p><p>物理穿透+3.6</p><p></p></dd></dl><dl class="rune-cont c"><dt><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/3514.png" alt=""></dt><dd><p class="rp1">鹰眼</p><p class="rp2"></p><p>物理攻击力+0.9</p><p>物理穿透+6.4</p><p></p></dd></dl><dl class="rune-cont c"><dt><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/2517.png" alt=""></dt><dd><p class="rp1">隐匿</p><p class="rp2"></p><p>物理攻击力+1.6</p><p>移速+1%</p><p></p></dd></dl></div>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic13">使用技巧</h3>
+							<p class="use-skills">李白可以通过普攻小兵或野怪来触发被动，更快施放大招输出.李白可以通过1技能两段位移上前配合2技能接普攻或大招打出一套伤害后1技能回到原地，这是他无伤消耗的连招，但要注意把握1技能的CD时间</p>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic14">对抗技巧</h3>
+							<p class="use-skills">1、李白利用1技能上前消耗时，尽量不要跟他对拼；2、李白开启大招能躲所有技能，所以不要在它开启大招时对他施放技能；3、尽量不要触碰李白2技能的剑圈，否则会降低很高的护甲</p>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic15">团战思路</h3>
+							<p class="use-skills">李白是技能输出型刺客，团战时，李白可以利用野怪或小兵触发被动，1技能进场连招输出大招，如果没有秒掉敌人，不要一直站撸，暂时撤退，等技能CD好后再找机会进场输出</p>
+						</div>
+					</div>
+					<div class="panel">
+						<div class="autom">
+							<h3 class="tit1 ic8">英雄关系</h3>
+							<p class="tit2">最佳搭档</p>
+							<ul class="rela-list" data-relatename="|" data-relatedesc="|">
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/189.jpg" class="rela-img" alt="">
+									<p class="rela-text">鬼谷子：鬼谷子和李白可以产生很好的联动效果，李白2技能减伤后大招可以伤害爆炸，鬼谷子的1技能可以减少敌方抗性，配合李白的2技能大招会让伤害最大化，大招隐身技能也可以让李白的行踪难以被掌控。</p>
+								</li>
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/192.jpg" class="rela-img" alt="">
+									<p class="rela-text">黄忠：在初期黄忠的2技能减破甲和减速效果可以配合李白轻松完成gank，双破甲效果在前中期可以轻松秒杀敌方脆皮英雄为己方建立优势，李白在中后期身板比较脆皮，经常会出现不敢去攻击兵线或者野怪解封大招的现象，在黄忠大招的范围内可以轻松解封大招消耗敌方，不管是防守还是进攻都可以玩出很多战术。</p>
+								</li>
+							</ul>
+							<p class="tit2">被谁克制</p>
+							<ul class="rela-list" data-relatename="|" data-relatedesc="|">
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/118.jpg" class="rela-img" alt="">
+									<p class="rela-text">孙膑的大招沉默效果可以在李白进场后施放配合队友将其秒杀</p>
+								</li>
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/156.jpg" class="rela-img" alt="">
+									<p class="rela-text">张良的硬控能控住李白将其击杀</p>
+								</li>
+							</ul>
+							<p class="tit2">克制谁</p>
+							<ul class="rela-list brn" data-relatename="|" data-relatedesc="|">
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/109.jpg" class="rela-img" alt="">
+									<p class="rela-text">妲己：妲己是一个操作简单的英雄，直接释放技能231，即使不能将敌方英雄击杀也可以做到残血降低威胁的效果，但是李白拥有灵活的位移和免疫伤害技能，面对妲己时可以解封大招后2技能大招poke，也可以1技能先手控制妲己，在妲己准备释放技能时用2技能或者大招抵消，李白可以轻松对妲己进行压制。</p>
+								</li>
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/190.jpg" class="rela-img" alt="">
+									<p class="rela-text">诸葛亮：诸葛亮的位移距离比较短，如果被李白切近身很难逃脱，本身身板也比较脆弱，一旦被李白的2技能配合大招攻击会降低血线甚至被击杀，同时李白的二技能和大招都可以完美躲诸葛亮的大招和技能，李白可以轻松应对诸葛亮。</p>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- 攻略 -->
+				<div class="content-list slide-item" style="position: absolute; top: 0px; left: 0px; visibility: hidden;">
+					<ul class="raiders-list strategy-info"><li id="244657"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=244657&amp;e_code=pvpweb_m.statictypenew.typeundefined" title="【快速上手英雄技能】 李白" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(244657);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/1522066323.3642e353c50dec054d20aef1542fb184.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【快速上手英雄技能】 李白</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1291.1万</span><span class="rd-video-spr rd-video-day">2018-03-27</span></div></div></a></li><li id="244864"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=244864&amp;e_code=pvpweb_m.statictypenew.typeundefined" title="【王者荣耀】新英雄介绍：李白" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(244864);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/230x140.1522306355.d950470a59cf888573bed7d75b1f190d.230x140_12806.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【王者荣耀】新英雄介绍：李白</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">394.7万</span><span class="rd-video-spr rd-video-day">2018-03-30</span></div></div></a></li><li id="396557"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=396557&amp;e_code=pvpweb_m.statictypenew.type2" title="【百星王者带你飞】第50期：十步一杀不留行，对酒当歌醉诗仙" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(396557);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/900x500.1534245242.4415f898226d3e7d863bc2809b739630.900x500_86111.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【百星王者带你飞】第50期：十步一杀不留行，对酒当歌醉诗仙</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">550.8万</span><span class="rd-video-spr rd-video-day">2018-08-15</span></div></div></a></li><li id="365387"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=365387&amp;e_code=pvpweb_m.statictypenew.type2" title="【上分拍档】第33期 ：李白+太乙真人  强势进攻 无所畏惧" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(365387);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/230x140.1528965073.e3a8988ad2227512b8cbb77e6c75d525.230x140_14855.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【上分拍档】第33期 ：李白+太乙真人  强势进攻 无所畏惧</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">500.3万</span><span class="rd-video-spr rd-video-day">2018-06-14</span></div></div></a></li><li id="579193"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=579193&amp;e_code=pvpweb_m.statictypenew.type2" title="“突进流”李白真的很简单，照搬刷大，轻松收割" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(579193);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/080ca5ef68968a7b956d470f02d24cd8.1577254002.dfd2ebfe7dac1bea263c791232e61402.230x140_19734.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>“突进流”李白真的很简单，照搬刷大，轻松收割</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">4.7万</span><span class="rd-video-spr rd-video-day">2019-12-30</span></div></div></a></li><li id="585760"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=585760&amp;e_code=pvpweb_m.statictypenew.type2" title="【英雄周报】王者荣耀李白教学视频" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(585760);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/saved_resource" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【英雄周报】王者荣耀李白教学视频</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">3.2万</span><span class="rd-video-spr rd-video-day">2020-01-24</span></div></div></a></li><li id="575136"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=575136&amp;e_code=pvpweb_m.statictypenew.type2" title="李白巅峰操作教学，一个大招瞬间爆炸" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(575136);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/f747edbdda2f2d577b55de30ff3ad00f.1575888919.02b018f88b7c7c1d1f1bb053ba84c94e.230x140_81322.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>李白巅峰操作教学，一个大招瞬间爆炸</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1.8万</span><span class="rd-video-spr rd-video-day">2019-12-16</span></div></div></a></li><li id="581208"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=581208&amp;e_code=pvpweb_m.statictypenew.type2" title="王者荣耀：李白该怎么打干将？一技能突进二技能躲控制！" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(581208);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/c2c1298a6cffe6f9bfedb08f8f1074fb.1578278440.7592aec1c43cb528b11d96320c538146.230x140_47853.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>王者荣耀：李白该怎么打干将？一技能突进二技能躲控制！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">8632</span><span class="rd-video-spr rd-video-day">2020-01-09</span></div></div></a></li><li id="581223"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=581223&amp;e_code=pvpweb_m.statictypenew.type2" title="看梦泪韩信排位遇到李白是如何秀杀他的，秀的李白头皮发麻" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(581223);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/28178aa4a5450730a73102f594a8cd4f.1578283153.288c9914520447bf9ec168d2321c015e.230x140_27699.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>看梦泪韩信排位遇到李白是如何秀杀他的，秀的李白头皮发麻</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">5506</span><span class="rd-video-spr rd-video-day">2020-01-07</span></div></div></a></li><li id="439774"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=439774" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(439774);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/c81e728d9d4c2f636f067f89cc14862c.1579338582.c79b08f44863dd45e7a0776a08d39ee1.230x140_22685.jpg" alt=""></div><div class="vdbtn-right"><p>凤求凰华丽返场让李白起飞：新版本打野节奏及出装铭文了解一下！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">3239</span><span class="rd-video-spr rd-video-day">2020-01-20</span></div></div></a></li><li id="439862"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=439862" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(439862);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/24024ba256cb9293e01f7d77bb6f8ec4.1579366292.5da1dac071a7c9266e8543a4617f03d2.184x124_5675.jpg" alt=""></div><div class="vdbtn-right"><p>新赛季大神教你如何玩好李白，熟练之后上分如喝粥一样容易！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">2587</span><span class="rd-video-spr rd-video-day">2020-01-21</span></div></div></a></li><li id="438244"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=438244" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(438244);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/c81e728d9d4c2f636f067f89cc14862c.1577869051.ef0fd8ae6bbb1c43d73f038a03fa9c6e.230x140_22832.jpg" alt=""></div><div class="vdbtn-right"><p>KPL大神攻略：冬冠杯李白四战全胜，揭秘职业选手出装思路！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1369</span><span class="rd-video-spr rd-video-day">2020-01-02</span></div></div></a></li><li id="440252"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=440252" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(440252);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/96ee39e86e4efcb79f0a5fed5f17b02b.1579248339.207f625e859b83e618ce1a28b1a1e07a.230x140_69087.jpg" alt=""></div><div class="vdbtn-right"><p>凤求凰返场！遨游四海，上国服！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">871</span><span class="rd-video-spr rd-video-day">2020-01-27</span></div></div></a></li><li id="440189"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=440189" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(440189);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/bc1f380a798f35fc1a3ce98f0819e1e8.1579700790.1d1ecfc99fad6792dc10602e90788b60.184x124_16882.jpg" alt=""></div><div class="vdbtn-right"><p>王者荣耀：新赛季李白打野攻略</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">429</span><span class="rd-video-spr rd-video-day">2020-01-27</span></div></div></a></li><li id="439701"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=439701" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(439701);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/58652eea025fa6f653d5fcd6901a3fc1.1579193918.16e940bbb14e7d96ad2461f94a1e4126.230x140_17313.jpg" alt=""></div><div class="vdbtn-right"><p>王者荣耀：李白超帅皮肤凤求凰返场，搭配新赛季玩法思路纵横峡谷</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">453</span><span class="rd-video-spr rd-video-day">2020-01-18</span></div></div></a></li><li id="439627"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=439627" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(439627);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/63355168075646e9e13f1c9faf6c28a5.1579145092.6be55619dbbd31376f1f4a9092470bba.230x140_65515.jpg" alt=""></div><div class="vdbtn-right"><p>王者荣耀：你需要了解的——凤求凰 李白 详细解析！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1113</span><span class="rd-video-spr rd-video-day">2020-01-17</span></div></div></a></li><li id="439508"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=439508" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(439508);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/e316cc8be973d784345bcc6c37ec4ed3.1579079701.733e2b3143c4a52099b03da4bd405283.230x140_21294.jpg" alt=""></div><div class="vdbtn-right"><p>李白-凤求凰优化返场，携手王昭君-凤凰于飞，上分攻略</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">753</span><span class="rd-video-spr rd-video-day">2020-01-17</span></div></div></a></li><li id="439610"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=439610" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(439610);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/b586f2a9f9a5a1893acd61c1c750b906.1579104770.b0f522bb474177d3d183bf70b26db2e0.230x140_79370.jpg" alt=""></div><div class="vdbtn-right"><p>盛世美颜凤求凰，李白玩法全面必备攻略！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1101</span><span class="rd-video-spr rd-video-day">2020-01-17</span></div></div></a></li><li id="438049"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=438049" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(438049);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/b58ed8cc0c4e3713e6ef2b0bfc1c238f.1577950467.11b2dc98251e83c191ce63eafaec7d68.184x124_15176.jpg" alt=""></div><div class="vdbtn-right"><p>梦泪分享韩信、李白等英雄最新出装铭文，赶紧来学学</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">886</span><span class="rd-video-spr rd-video-day">2020-01-03</span></div></div></a></li></ul>
+					<div class="load-more">
+						<a href="javascript:;" class="load-link">全部加载完成</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<a href="javascript: showShareDialog();" class="hero-share"></a>
+	</div>
+	<div class="share-guide">
+		<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/share-guide.png" alt="">
+	</div>
+	<script src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/jquery-1.11.3.min.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/milo.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/fastclick.min.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/PAGE_WMP_BIZ_TYPE.js.下载"></script>
+	<script src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/Activity_Comm.js.下载"></script>
+	<script src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/wmpCommon_v3.js.下载"></script>
+	<script src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/TGMobileShare.min.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/ping_tcss_tgideas_https_min.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/herodetail.js.下载" charset="UTF-8"></script>
+	<script>
+	    //此段代码不能放到外链JS中，
+		var setSite = { //设置网站属性
+			siteType: "os", //必填项:"os"代表是官网，如果不是，则填写actName例如a20160701xxx
+			pageType: "herodetail", //必填项:本页面的定位；按照页面含义填写例如main||list||detail||download||share||page1||pageN
+			pageName: "英雄攻略", //必填项:页面中文名
+			osact: "m", //选填项:是否是官网专题(在官网运营的专题)boolean；默认是0；可以在链接上加入参数osact=1来灵活设置
+			project:"base"
+		}
+		if (typeof (pgvMain) == 'function') pgvMain(); //千万不能忘记！
+		
+		if ($('.brf .hero-story').text().trim() == 'undefined') {
+			$('.brf').remove();
+		}
+
+		$('.loud-link-click').attr('href', '/m/m201706/heropic-detail.shtml?hid=131');
+
+		TGMobileShare({
+			shareTitle: '王者荣耀攻略站-李白英雄攻略',
+			shareImgUrl: 'https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/131/131-bigskin-1.jpg',
+			actName: 'zsbdm-hero131'
+		});
+
+		// 技能加点切换
+		setArrow();
+
+		function setArrow() {
+			var $list = $('.plus-tab'),
+				counts = $list.children().length,
+				$control = $('.plus-control'),
+				oddWidth = $('#PlusTab').width(),
+				_w = Math.ceil(counts / 5),
+				$prev = $('.plus-prev'),
+				$next = $('.plus-next'),
+				i = 0;
+
+			if (counts > 5) {
+				$control.css('display', 'block');
+				$list.css('width', _w + '00%');
+
+				init();
+			}
+
+			function init() {
+				$prev.on('click', function () {
+					if (i == 0) return false;
+					i--;
+					var px = -i * oddWidth + 'px';
+					$list.css({
+						'transform': 'translate3d(' + px + ', 0, 0)'
+					});
+					arrowShow();
+				});
+
+				$next.on('click', function () {
+					i++;
+					var px = -i * oddWidth + 'px';
+					if (i + 1 == _w) {
+						$(this).hide();
+					}
+					$list.css({
+						'transform': 'translate3d(' + px + ', 0, 0)'
+					});
+					arrowShow();
+				});
+			}
+
+			function arrowShow() {
+				if (i == 0) {
+					$prev.css('display', 'none');
+				} else {
+					$prev.css('display', 'block');
+				}
+
+				if (i + 1 == _w) {
+					$next.css('display', 'none');
+				} else {
+					$next.css('display', 'block');
+				}
+			}
+		}
+	</script><script src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/qqapi.https.js.下载"></script><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/pingd" style="display:none;position:fixed;left:-999999px;top:-999999px;width:0;height:0;">
+
+
+<img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/pingd(1)" style="display:none;position:fixed;left:-999999px;top:-999999px;width:0;height:0;"><img src="./王者荣耀-王者荣耀官方网站-腾讯游戏_files/pingd(2)" style="display:none;position:fixed;left:-999999px;top:-999999px;width:0;height:0;"></body></html>
