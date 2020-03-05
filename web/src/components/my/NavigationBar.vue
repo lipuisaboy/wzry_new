@@ -104,6 +104,7 @@ export default {
       height: 5.3846rem;
     }
     ul{
+      width:100%;
       padding: 0;
       margin: 0;
       list-style-type: none;
@@ -114,7 +115,7 @@ export default {
       }
       li{
         height: 3.8462rem;
-        width: 7.2154rem;
+        width: 25%;
         text-align: center;
         margin: 0.7692rem 0;
         border-right: 1px solid #cacaca;
