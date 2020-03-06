@@ -51,7 +51,7 @@ module.exports = app => {
   const upload = multer({dest:__dirname + '/../uploads'})
   app.post('/wzry/api/upload',upload.single('file') ,async(req,res) => {
     const file =await req.file
-    file.url = `http://localhost:3002/uploads/${file.filename}`
+    file.url = `http://123.207.196.89/uploads/${file.filename}`
     res.send(file)
   })
 
