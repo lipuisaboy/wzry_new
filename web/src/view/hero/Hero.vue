@@ -323,9 +323,13 @@ export default {
       line-height: 3.4615rem;
     }
     .friend{
-      img{
-        height: 3.6923rem;
-        width: 3.6923rem;
+      ul{
+        li{
+           img{
+              height: 3.6923rem;
+              width: 3.6923rem;
+          }
+        }
       }
     }
   }
